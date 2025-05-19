@@ -124,16 +124,16 @@ imprimirInformacion(costa_rica)
 ~~~
 '''
 ##### imprime:
-4 CIUDADES
-San José
-Limón
-Cartago
-Puntarenas
+- 4 CIUDADES
+* San José
+* Limón
+* Cartago
+* Puntarenas
 
-5 COMIDAS
-gallo pinto
-casado
-tamales
-chifrijo
-olla de carne
+- 5 COMIDAS
+* gallo pinto
+* casado
+* tamales
+* chifrijo
+* olla de carne
 '''
